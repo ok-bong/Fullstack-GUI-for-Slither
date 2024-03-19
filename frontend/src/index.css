@@ -1,0 +1,10 @@
+/* includes styles, pre-built components and utility classes provided by Tailwind CSS */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* customise the selected text in the application using Tailwind CSS utility classes */
+::selection {
+    /* when selected, apply a background colour of gray and text colour of white */
+    @apply bg-gray-500 text-white;
+}
