@@ -1,0 +1,12 @@
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite
+*.log
+*.log.*
+*.db-journal
+.dockerignore
+Dockerfile
+docker-compose.yml
