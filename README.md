@@ -2,6 +2,16 @@
 
 The objective of this project is to develop a web platform for auditing Solidity smart contracts using Slither. Slither serves as a static analysis framework/tool specifically designed for Solidity, the programming language used for implementing smart contracts across various blockchain platforms.
 
+**Home page:**
+![image](https://github.com/ok-bong/Fullstack-GUI-for-Slither/assets/90834102/1730dd9f-541c-4487-85a3-f89fb69f9cef)
+
+**Report History page:**
+![image](https://github.com/ok-bong/Fullstack-GUI-for-Slither/assets/90834102/f11c3450-b5c9-4bcc-a0ca-fef447c61c9d)
+
+**Detailed Report page:**
+![image](https://github.com/ok-bong/Fullstack-GUI-for-Slither/assets/90834102/bac6a2e2-8a26-4320-a8eb-c403add18178)
+
+
 For detailed insights into the project, including its design, implementation, and website functionalities, as well as screenshots and user workflows, please refer to the attached report in this repository: **Design_Document.pdf**
 
 The setup instructions are provided below. You may choose to utilise Docker-compose for convenience or opt for manual setup if preferred.
